@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Kotlin Async Task</string>
+    <string name="network_error">Error de red</string>
+</resources>
